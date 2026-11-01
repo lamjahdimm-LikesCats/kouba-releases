@@ -1,35 +1,43 @@
-# 💧 Kouba Application — تطبيق كوبا
+# 💧 تطبيق كوبا — Kouba Application
+
+> منصة ذكية لتنسيق وتوصيل خدمات المياه بمرونة وكفاءة عالية.
 
 ---
 
-## 🇲🇦 العربية (Arabic)
+## 🇲🇦 العربية
 
-تطبيق **كوبا (Kouba)** متاحة الآن للمعاينة والتجربة الميدانية كنسخة تجريبية (Testing Phase) حصرياً عبر ملف **APK** المتاح على منصة GitHub.
+يسرنا الإعلان عن إطلاق **النسخة التجريبية (Testing Phase)** لتطبيق **كوبا (Kouba)**، والمتاحة حصرياً عبر ملف **APK** على منصة GitHub.
 
-### 📌 تعليمات التثبيت والاستخدام
-* **طريقة التثبيت:** يمكن تثبيت التطبيق على أجهزة أندرويد عبر السماح بالتثبيت من مصادر خارجية غير معروفة (Install from unknown sources / Sources inconnues) من إعدادات الحماية في هاتفك.
-* **مجاني بالكامل:** التطبيق مجاني 100%. سيحصل جميع المستخدمين الجدد على **رصيد مجاني غير محدود** خلال كامل فترة التجربة.
-* **الأمان والأمان الرقمي:** عند تثبيت التطبيق، تقوم أنظمة أندرويد تلقائياً بفحصه عبر خدمة أمان التطبيقات (Malware Scanner)، ويسعدنا إعلامكم أن التطبيق يجتاز هذا الفحص بنجاح تام وبدون أي تحذيرات.
-* **المسؤولية والخصوصية:** يتحمل **محمد مصطفى لمجهدي (Mohamed Mostafa Lamjahdi)** — بصفته المطور والمبتكر وصاحب التطبيق — المسؤولية الكاملة عن التطبيق، ويؤكد التزامه التام والقانوني بجميع قوانين وحماية البيانات والخصوصية. يمكنكم الاطلاع على التفاصيل القانونية عبر: [legal.kouba.site](https://legal.kouba.site).
-* **النطاق الجغرافي حالياً:** هذه المرحلة التجريبية مخصصة حالياً واستثنائياً لمدينة **العيون**. ومع ذلك، فإن البنية التحتية للتطبيق مجهزة ومصممة للعمل في أي مدينة أو دولة أخرى، وسيتم تفعيل باقي المدن بعد التحقق من مصادر المياه المحلية فيها خلال **المرحلة الثالثة** التي تلي الإطلاق الرسمي.
-* **الخطط المستقبلية:** بعد إتمام مرحلة التجربة بنجاح، سيتم إطلاق التطبيق رسمياً على متجر Google Play وباقي المتاجر المعتمدة لأجهزة أندرويد. كما أن نسخة **iOS** لأجهزة آيفون ستكون متاحة قريباً جداً.
-* **دليل الاستخدام:** لمعرفة كيفية استخدام التطبيق واستكشاف كافة خصائصه، يرجى زيارة مركز الدعم والأسئلة الشائعة: [faq.kouba.site](https://faq.kouba.site).
+### 📥 روابط التحميل والمعاينة
+* **📲 رابط تحميل ملف التطبيق المباشر (APK):** [اضغط هنا للتحميل](https://github.com/lamjahdimm-LikesCats/kouba-releases/releases/download/v1.0.0-test1/app-release.apk)
+* **📚 دليل الاستخدام والأسئلة الشائعة (FAQ):** [faq.kouba.site](https://faq.kouba.site)
 
-📧 **للتواصل والدعم الفني:** لأي استفسار أو للإبلاغ عن مشكلة، يرجى مراسلتنا على: `admin@kouba.site`
+### 📌 تفاصيل وحقائق حول مرحلة الاختبار:
+* **طريقة التثبيت:** يمكن تثبيت التطبيق بسهولة على أجهزة أندرويد عبر السماح بالتثبيت من مصادر خارجية غير متجر جوجل بلاي (Install from unknown sources).
+* **مجاني بالكامل:** التطبيق مجاني 100%، ويتمتع جميع المستخدمين الجدد بـ **رصيد مجاني غير محدود** طوال فترة المعاينة والتجربة.
+* **الأمان الرقمي:** عند التثبيت على أجهزة أندرويد، يخضع التطبيق للفحص التلقائي ضد البرمجيات الخبيثة (Malware Scanner) ويجتاز الفحص بنجاح تام وبدون أي تنبيهات أمنية.
+* **المسؤولية القانونية والخصوصية:** يتحمل **محمد مصطفى لمجهدي (Mohamed Mostafa Lamjahdi)** — بصفته المبتكر والمالك الرسمي للتطبيق — المسؤولية الكاملة عن عمل التطبيق والتزامه التام بقوانين حماية الخصوصية. للمزيد من التفاصيل القانونية، يرجى زيارة: [legal.kouba.site](https://legal.kouba.site).
+* **النطاق الجغرافي للاختبار:** يقتصر الاختبار الأولي حالياً واستثنائياً على مدينة **العيون**. وتجدر الإشارة إلى أن بنية التطبيق مصممة لتعمل بسلاسة في أي مدينة أو دولة أخرى بعد التحقق الرسمي من مصادر المياه المحلية (المقرر في المرحلة الثالثة بعد الإطلاق الرسمي).
+* **الإصدارات القادمة:** بعد اجتياز مرحلة الاختبار بنجاح، سيتم طرح التطبيق رسمياً على متجر Google Play ومتاجر أندرويد الأخرى، كما ستتوفر نسخة **iOS** لأجهزة آيفون قريباً جداً.
+
+📧 **الدعم الفني والاتصال:** لأية استفسارات أو ملاحظات، يُرجى مراسلتنا عبر البريد الإلكتروني: `admin@kouba.site`
 
 ---
 
-## 🇫🇷 Français (French)
+## 🇫🇷 Français
 
-L'application **Kouba** est désormais disponible pour une phase de test et d'évaluation. Durant cette période, l'application est accessible exclusivement sous forme de fichier **APK** via GitHub.
+Nous sommes ravis d'annoncer la disponibilité de l'application **Kouba** pour sa **phase de test**, accessible exclusivement via le fichier **APK** sur GitHub.
 
-### 📌 Installation et Informations Importantes
-* **Installation :** L'application peut être installée sur les appareils Android en autorisant l'installation depuis des sources inconnues (autres que le Google Play Store) dans les paramètres de votre téléphone.
-* **Entièrement Gratuite :** L'application est 100% gratuite. Tous les nouveaux utilisateurs bénéficieront d'un **crédit gratuit et illimité** tout au long de cette phase de test.
-* **Sécurité et Analyse Malware :** Lors de l'installation sur Android, l'application est généralement scannée automatiquement par les systèmes de protection contre les logiciels malveillants, test qu'elle réussit avec succès sans aucun risque.
-* **Responsabilité et Confidentialité :** **Mohamed Mostafa Lamjahdi**, créateur et propriétaire de l'application, assume l'entière responsabilité de Kouba et garantit sa conformité avec les lois sur la protection des données et de la vie privée. Pour en savoir plus, consultez : [legal.kouba.site](https://legal.kouba.site).
-* **Zone Géographique du Test :** Ce test initial est réservé exclusivement à la ville de **Laâyoune**. Cependant, l'architecture de l'application est généralisée et conçue pour fonctionner dans n'importe quelle autre région ou pays après la vérification des sources d'eau locales, étape prévue pour la **phase 3** après le déploiement officiel sur les stores.
-* **Évolution Future :** Après la réussite de cette phase de test, l'application sera déployée officiellement sur le Google Play Store et d'autres catalogues Android. La version **iOS** pour iPhone sera également disponible très prochainement.
-* **Guide d'Utilisation (FAQ) :** Pour comprendre le fonctionnement de l'application et apprendre à l'utiliser, veuillez consulter notre FAQ : [faq.kouba.site](https://faq.kouba.site).
+### 📥 Liens de Téléchargement et Documentation
+* **📲 Lien de téléchargement direct de l'APK :** [Télécharger l'application ici](https://github.com/lamjahdimm-LikesCats/kouba-releases/releases/download/v1.0.0-test1/app-release.apk)
+* **📚 Guide d'utilisation et FAQ :** [faq.kouba.site](https://faq.kouba.site)
 
-📧 **Contact & Support :** Pour toute question ou signalement de problème, contactez-nous à : `admin@kouba.site`
+### 📌 Informations Clés sur la Phase de Test :
+* **Installation :** L'application peut être installée sur les appareils Android en autorisant l'installation depuis des sources inconnues dans les paramètres de sécurité de votre téléphone.
+* **100% Gratuite :** L'application est entièrement gratuite. Tous les nouveaux utilisateurs bénéficient d'un **crédit gratuit et illimité** pendant toute la durée de la phase de test.
+* **Sécurité & Analyse :** Lors de l'installation sur Android, l'application est automatiquement analysée par les systèmes de sécurité contre les programmes malveillants et passe le test avec succès.
+* **Responsabilité et Confidentialité :** **Mohamed Mostafa Lamjahdi**, en tant que créateur et propriétaire, assume l'entière responsabilité de l'application et garantit sa stricte conformité avec les lois sur la protection de la vie privée. Pour en savoir plus, consultez : [legal.kouba.site](https://legal.kouba.site).
+* **Zone Géographique :** Ce test initial est exclusivement destiné à la ville de **Laâyoune**. L'architecture de l'application est toutefois généralisable et pourra fonctionner dans toute autre région ou pays après la vérification des sources d'eau locales (prévue pour la phase 3, après le déploiement officiel sur les stores).
+* **Futurs Déploiements :** À l'issue de cette phase de test, l'application sera lancée officiellement sur le Google Play Store et d'autres catalogues Android. Une version **iOS** pour iPhone sera également disponible très prochainement.
+
+📧 **Support Technique :** Pour toute question ou signalement de dysfonctionnement, contactez-nous à : `admin@kouba.site`
